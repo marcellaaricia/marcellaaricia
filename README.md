@@ -1,11 +1,9 @@
-## Olá Mundo!
-<div align="center">
-  <a href="https://github.com/marcellaaricia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellaaricia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellaaricia&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&pause=1000&color=F742C9&background=4FFBFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Mundo!" alt="Typing SVG" /></a>
+</h1>
+
+<div align="center" ><img order-radius="100px" src="https://github.com/xqyjlj/xqyjlj/blob/master/coding.gif"/></div>
+<br>
 
 <div>
 <h3 align="left">:: Outras Redes ::</h3>
