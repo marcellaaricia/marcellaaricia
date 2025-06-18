@@ -8,10 +8,7 @@
 <div>
 <h3 align="left">:: Outras Redes ::</h3>
 <p align="left">
-<a href="https://twitter.com/dona_aricia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dona_aricia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcella-aricia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcella-aricia" height="30" width="40" /></a>
-<a href="https://instagram.com/dona_aricia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dona_aricia" height="30" width="40" /></a>
-<a href="https://discord.gg/HDcVyaE84x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HDcVyaE84x" height="30" width="40" /></a>
 </div>
 
   ##  
