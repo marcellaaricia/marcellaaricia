@@ -5,12 +5,6 @@
 <div align="center" ><img order-radius="100px" src="https://github.com/xqyjlj/xqyjlj/blob/master/coding.gif"/></div>
 <br>
 
-<div>
-<h3 align="left">:: Outras Redes ::</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcella-aricia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcella-aricia" height="30" width="40" /></a>
-</div>
-
   ##  
 
 <div>
