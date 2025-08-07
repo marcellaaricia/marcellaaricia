@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&pause=1000&color=F742C9&background=4FFBFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Mundo!" alt="Typing SVG" /></a>
 </h1>
 
-<div align="center" ><img order-radius="100px" src="https://github.com/xqyjlj/xqyjlj/blob/master/coding.gif"/></div>
+<div align="center" ><img src="https://github.com/xqyjlj/xqyjlj/blob/master/coding.gif" width="250"/></div>
 
 <h3 align="center">🌴 Carioca se aventurando na concrete jungle paulistana 🏙️</h3>
 <h4 align="center">📊 Analista de Dados | Transformando dados em insights estratégicos</h4>
