@@ -86,8 +86,13 @@
 
 ---
 
-## 💼 **Experiência**
-**DP6** (2022-2023) • **Solor** (2021-2022) • **A2B Group** (2019-2021)
+💼 **Experiência em Dados**
+
+**DP6** - Trainee (2022-2023) • **Solor** - Analista Monitoramento (2021-2022) • **A2B Group** - Suporte TI (2019-2021)
+
+💡 **Experiência Complementar (2011 - 2019)**
+
+Técnico de Campo, Consultor de Vendas, Monitor de Laboratório
 
 ---
 
