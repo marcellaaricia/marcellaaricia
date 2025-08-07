@@ -79,10 +79,10 @@
 ---
 
 ## 🏆 **Conquistas**
-- 🥇 **1º Lugar** Challenge Minsait/FIAP - Crédito Rural com IA
-- 🥇 **Vencedora** Hackaton Data Science FIAP  
-- 🥉 **3º Lugar** Challenge TOTVS - Automação NPS
-- 🌍 **Aprovada** 42 São Paulo (200+ horas na Piscina)
+- 🥇 **[1º Lugar Challenge Minsait/FIAP - Crédito Rural](https://www.linkedin.com/feed/update/urn:li:activity:7124165227381673986/)**
+- 🥇 **[Vencedora Hackaton Data Science FIAP](https://www.linkedin.com/in/marcella-aricia/overlay/career-break/4447414/multiple-media-viewer/?profileId=ACoAADMtROwBSqT05un6trp1hz0lj_yEZmw1xsE&treasuryMediaId=1731679585507&type=IMAGE)**
+- 🥉 **[3º Lugar Challenge TOTVS - Automação NPS](https://www.linkedin.com/feed/update/urn:li:activity:7256684341739589632/)**
+- 🌍 **[Aprovada 42 São Paulo](https://www.linkedin.com/feed/update/urn:li:activity:7343349861502672896/)**
 
 ---
 
