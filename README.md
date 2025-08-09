@@ -15,6 +15,10 @@
 
 ---
 
+<a href="https://github.com/oakoudad/badge42" align="center"><img src="https://badge.mediaplus.ma/honeytones/marde-je?1337Badge=off&UM6P=off" alt="marde-je 42 stats" /></a>
+
+---
+
 ## 🛠️ **Stack Principal - Dados & Análise**
 
 ### **💪 Expert Level**
