@@ -95,7 +95,7 @@
 
 💼 **Experiência em Dados**
 
-**DP6** - Trainee (2022-2023) • **Solor** - Analista Monitoramento (2021-2022) • **A2B Group** - Suporte TI (2019-2021)
+**Itaú** - Estagiária (2025-até o momento) • **DP6** - Trainee (2022-2023) • **Solor** - Analista Monitoramento (2021-2022) • **A2B Group** - Suporte TI (2019-2021)
 
 💡 **Experiência Complementar (2011 - 2019)**
 
