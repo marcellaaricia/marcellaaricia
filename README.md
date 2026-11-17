@@ -13,12 +13,6 @@
 - **Data Science** - FIAP ✅ **Concluída**
 - **42 São Paulo** - Diploma Internacional em Programação 🔄 **Em andamento**
 
----
-<h1 align="center">
-  
-![marde-je's 42 stats](https://badge.mediaplus.ma/greenbinary/marde-je?1337Badge=off&UM6P=off)
-
-</h1>
 
 ---
 
